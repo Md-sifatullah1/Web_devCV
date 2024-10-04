@@ -42,3 +42,8 @@ html, body {
 body {
     background-color:deepskyblue;
 }
+/* this upper script to set bg color is updated in dev branch bellow */
+
+body {
+    background-color: darkblue;
+}
