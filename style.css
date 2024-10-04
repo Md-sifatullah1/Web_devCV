@@ -1,0 +1,44 @@
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p.yunus{
+    color:black
+}
+
+h1 {
+    color:darkblue;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large ;
+}
+
+table , td, td {
+    border: 1px solid black;
+}
+
+ul {
+    font-size: larger;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure the body takes up the full viewport height */
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Flexbox layout to center the form */
+body {
+    background-color:deepskyblue;
+}
